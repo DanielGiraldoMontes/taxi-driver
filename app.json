@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "GrabCab Driver",
+    "name": "SeguTaxi Driver",
     "description": "Taxi Booking Driver App",
-    "slug": "GrabCabDriver",
+    "slug": "SeguTaxiDriver",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
@@ -28,7 +28,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.exicube.grabcabdriverapp",
+      "bundleIdentifier": "com.segutaxi.app",
       "infoPlist": {
             "NSLocationAlwaysUsageDescription": "This app uses the location to find the Cabs near you.",
             "NSLocationWhenInUseUsageDescription": "This app uses the location to find the Cabs near you.",
@@ -44,7 +44,7 @@
       }
     },
     "android": {
-      "package": "com.exicube.grabcabdriverapp",
+      "package": "com.segutaxi.app",
       "permissions": [
         "CAMERA",
         "READ_EXTERNAL_STORAGE",
